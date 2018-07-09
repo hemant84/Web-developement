@@ -1,0 +1,2 @@
+This is just a fun game i in which i practiced my skills with adding animations and sounds. I used paper.js library for animations and howler.js library for sounds. 
+This game basically that an cool shrinking circle with changing random color with animation appers on the screen and also producing a funcky sound parallely when an alphabet key is pressed.
